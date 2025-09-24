@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Paula. I'm a fashion and textile designer with graphic design skills.
-- 👀 I’m interested in digital technology applied to textile development, art and desing in all its spheres and scales.
-- 🌱 I’m currently learning web development with html and css.
-- 💞️ I’m looking to collaborate in web design for educational purposes for the textile industry or any other related to the field.
+Hi everyone!
+My name is Paula. I'm a Teacher and Textile Design graduate. I specialize in graphic design, visual communication, and digital content for education and websites.
+I use creativity, precision, and empathy to create materials that inform, connect, and have impact.
+I'm also passionate about front-end development. I enjoy bringing designs to life with HTML, CSS, and JavaScript, creating user-friendly interfaces that look great and are easy for everyone to use.
 
 <!---
 paucampos7/paucampos7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
